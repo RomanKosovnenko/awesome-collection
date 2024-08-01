@@ -1,1 +1,84 @@
 # awesome-collection
+
+A curated list of awesome links, resources and other
+
+- [Awesome Collection](#awesome-collection)
+  - [awesome-big-data](https://github.com/oxnr/awesome-bigdata) A curated list of awesome big data frameworks, resources and other
+  - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) A curated list of awesome things related to Data Engineering.
+  - [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) A curated list of awesome MongoDB resources, libraries, tools and applications.
+  - [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) A curated list of awesome PostgreSQL software, libraries, tools and resources.
+  - [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) A curated list of delightful productivity resources.
+  - [Awesome k6](https://github.com/grafana/awesome-k6) A collection of resources by the community, on (testing with) k6.
+  - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd) A curated list of awesome tools for:
+    - continuous integration
+    - continuous delivery
+    - software integration
+    - devops.
+  - [Developer Roadmaps](https://roadmap.sh/) is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
+  - [Guides](https://github.com/NARKOZ/guides) Guides for programmers who want to be awesome.
+  - [awesome-graphql](https://github.com/chentsulin/awesome-graphql) Awesome list of GraphQL.
+  - [Awesome Microservices](https://github.com/mfornos/awesome-microservices) A curated list of Microservice Architecture related principles and technologies.
+  - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd) A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
+  - [Awesome Prometheus](https://github.com/roaldnefs/awesome-prometheus) A curated list of awesome Prometheus resources, projects and tools.
+  - [Awesome Design Principles](https://github.com/robinstickel/awesome-design-principles) A curated list of good design and experience principles.
+  - [Awesome Prisma](https://github.com/catalinmiron/awesome-prisma) This is a collection of awesome resources about Prisma.
+  - [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) Tech stacks for building different applications and features.
+  - [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions) A curated list of lists of technical interview questions.
+  - [Awesome React](https://github.com/enaqx/awesome-react) A collection of awesome things regarding the React ecosystem.
+  - [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) list for illustrating the patterns of scalable, reliable, and performant large-scale systems.
+  - [https://github.com/ansible-community/awesome-ansible#readme](https://github.com/ansible-community/awesome-ansible#readme)
+  - [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+  - [https://github.com/brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+  - [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+  - [https://github.com/DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+  - [https://github.com/goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools)
+  - [https://github.com/docker/awesome-compose](https://github.com/docker/awesome-compose)
+  - [https://github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
+  - [https://github.com/cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
+  - [https://github.com/viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
+  - [https://github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)
+  - [https://github.com/aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)
+  - [https://github.com/jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+  - [https://github.com/lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming)
+  - [https://github.com/xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux)
+  - [https://github.com/heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
+  - [https://github.com/nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs)
+  - [https://github.com/mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+  - [https://github.com/rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+  - [https://github.com/mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books)
+  - [https://github.com/pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning)
+  - [https://github.com/davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+  - [https://github.com/LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+  - [https://github.com/LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing)
+  - [https://github.com/bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
+  - [https://github.com/grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc)
+  - [https://github.com/igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+  - [https://github.com/samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)
+  - [https://github.com/BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler)
+  - [https://github.com/atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
+  - [https://github.com/ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+  - [https://github.com/dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
+  - [https://github.com/ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
+  - [https://github.com/learn-anything/books](https://github.com/learn-anything/books)
+  - [https://github.com/shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf)
+  - [https://github.com/micromata/awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning)
+  - [https://github.com/liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps)
+  - [https://github.com/onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
+  - [https://github.com/dzharii/awesome-elasticsearch](https://github.com/dzharii/awesome-elasticsearch)
+  - [https://github.com/sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm)
+  - [https://github.com/ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot)
+  - [https://github.com/ligurio/awesome-ci](https://github.com/ligurio/awesome-ci)
+  - [https://github.com/deephacks/awesome-jvm#readme](https://github.com/deephacks/awesome-jvm#readme)
+  - [https://github.com/wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises)
+  - [https://github.com/sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+  - [https://github.com/dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint)
+  - [https://github.com/addyosmani/es6-tools](https://github.com/addyosmani/es6-tools)
+  - [https://github.com/lvwzhen/tools](https://github.com/lvwzhen/tools)
+  - [https://github.com/glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks)
+  - [https://github.com/web-padawan/awesome-web-components](https://github.com/web-padawan/awesome-web-components)
+  - [https://github.com/TalAter/awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps)
+  - [https://github.com/TalAter/awesome-service-workers](https://github.com/TalAter/awesome-service-workers)
+  - [https://github.com/unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+  - [https://github.com/nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui)
+  - [https://github.com/componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps)
+  - [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
