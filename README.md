@@ -82,3 +82,4 @@ A curated list of awesome links, resources and other
   - [https://github.com/nadunindunil/awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui)
   - [https://github.com/componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps)
   - [https://github.com/ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+  - [https://github.com/jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)
